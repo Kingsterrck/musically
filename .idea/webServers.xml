@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf55ba9f-3d3a-44eb-b61f-6f365f83c354" name="localhost" url="http://localhost/musically">
+        <fileTransfer mountedRoot="C:\MAMP\htdocs\musically" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
